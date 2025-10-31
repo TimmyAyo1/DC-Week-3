@@ -24,9 +24,9 @@ Input: one integer from the user (e.g., between 1 and 10).
 
 Output: a message:
 
-Win → YES! You beat the matrix
+Correct Guess → YES! You beat the matrix
 
-Lose → Ooops! Not this time, try again
+Incorrect Guess → Contextual feedback and re-prompt (e.g. Invalid Input, Too high, Too low).
 
 ## Algorithm (step-by-step)
 
