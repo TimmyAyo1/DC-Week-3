@@ -47,3 +47,8 @@ STEP 7: If userGuess is greater than computerNumber, return a message to the use
 STEP 8: Else, If userGuess is less than computerNumber, return a message to the user e.g. "Too low, try again", then continue to re-prompt user to guess again.
 
 STEP 9: Else, If userGuess is equal to computerNumber, return a message to the user e.g. "YES! You beat the matrix", end the loop and program.
+
+
+
+# Peer Comment
+This is a clear, well-structured, and straightforward step-by-step algorithm. Each stage is logically presented and easy to follow. Great work, well done.
