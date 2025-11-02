@@ -51,7 +51,4 @@ STEP 9: Else, If userGuess is equal to computerNumber, return a message to the u
 
 
 # Peer Comment
-This report doesn't contain the algorithm codes. I think it should as the requirements asked us to make suggestion, improvements or fix a potential user error. I am still expecting that you add the algorithm to either your README file or as a new file
-
-
 This is a clear, well-structured, and straightforward step-by-step algorithm. Each stage is logically presented and easy to follow. Great work, well done.
